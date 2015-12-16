@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CISP370_XNA_GAME", "CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME.csproj", "{43E0A320-9E63-47BC-BF10-ABB7D7C027B3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{309D2622-470D-4ABB-8B64-6460C06551AC} = {309D2622-470D-4ABB-8B64-6460C06551AC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CISP370_XNA_GAMEContent", "CISP370_XNA_GAME\CISP370_XNA_GAMEContent\CISP370_XNA_GAMEContent.contentproj", "{285CA032-3403-46F6-BB54-4F08F27B0F45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA_Library", "..\CISP335_Library\XNA_Library.csproj", "{309D2622-470D-4ABB-8B64-6460C06551AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E0A320-9E63-47BC-BF10-ABB7D7C027B3}.Debug|x86.ActiveCfg = Debug|x86
+		{43E0A320-9E63-47BC-BF10-ABB7D7C027B3}.Debug|x86.Build.0 = Debug|x86
+		{43E0A320-9E63-47BC-BF10-ABB7D7C027B3}.Release|x86.ActiveCfg = Release|x86
+		{43E0A320-9E63-47BC-BF10-ABB7D7C027B3}.Release|x86.Build.0 = Release|x86
+		{285CA032-3403-46F6-BB54-4F08F27B0F45}.Debug|x86.ActiveCfg = Debug|x86
+		{285CA032-3403-46F6-BB54-4F08F27B0F45}.Release|x86.ActiveCfg = Release|x86
+		{309D2622-470D-4ABB-8B64-6460C06551AC}.Debug|x86.ActiveCfg = Debug|x86
+		{309D2622-470D-4ABB-8B64-6460C06551AC}.Debug|x86.Build.0 = Debug|x86
+		{309D2622-470D-4ABB-8B64-6460C06551AC}.Release|x86.ActiveCfg = Release|x86
+		{309D2622-470D-4ABB-8B64-6460C06551AC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

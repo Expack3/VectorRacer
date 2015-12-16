@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 3093828359;
+    PC Bank Last Modified High = 30334904;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 3093828359;
+    Bank Last Revised High = 30334904;
+
+    Wave
+    {
+        Name = Hit;
+        File = Audio\Hit.wav;
+        Build Settings Last Modified Low = 869805761;
+        Build Settings Last Modified High = 30286650;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 122340;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2913914315;
+            Last Modified High = 30286649;
+        }
+    }
+
+    Wave
+    {
+        Name = Fall;
+        File = Audio\Fall.wav;
+        Build Settings Last Modified Low = 869815761;
+        Build Settings Last Modified High = 30286650;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 88596;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3429443801;
+            Last Modified High = 30286649;
+        }
+    }
+
+    Wave
+    {
+        Name = explosion-01;
+        File = Audio\explosion-01.wav;
+        Build Settings Last Modified Low = 869815761;
+        Build Settings Last Modified High = 30286650;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 1234800;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 130075088;
+            Last Modified High = 30286649;
+        }
+    }
+
+    Wave
+    {
+        Name = button-10;
+        File = Audio\button-10.wav;
+        Build Settings Last Modified Low = 869835762;
+        Build Settings Last Modified High = 30286650;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 14428;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 391410036;
+            Last Modified High = 30286649;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

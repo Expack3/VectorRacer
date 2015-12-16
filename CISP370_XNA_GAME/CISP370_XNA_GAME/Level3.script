@@ -1,0 +1,16 @@
+﻿#Remember: Always set the "Copy to Output Directory" setting for .script files to "Always Copy"! Otherwise, file will fail to read.
+#
+spawnPoint, 0, 0, 50, 0, 0, -50, 1500.0
+loadPrimitive, Model, energy, Powerup, -5.0, -10.0, -15.0, 0.0, 0.0, 0.0, Models, 0.25, -999.0
+loadPrimitive, Model, energy, Powerup, 30.0, -65.0, 0.0, 0.0, 0.0, 0.0, Models, 1.0, 120.0
+loadPrimitive, Model, energy, Powerup, 10.0, 10.0, 15.0, 120.0, 60.0, 120.0, Models, 0.25, -999.0
+loadPrimitive, Model, energy, Powerup, 1.0, 1.0, 1.0, 0.0, 0.0, 0.0, Models, 0.25, -999.0
+loadPrimitive, Model, Enemy, Enemy, -50.0, -50.0, -15.0, 75.0, 75.0, 0.0, Models, 5.0, -999.0, true
+loadPrimitive, Model, energy, Powerup, 20.0, 20.0, 30.0, 0.0, 0.0, 0.0, Models, 0.25, -999.0
+loadPrimitive, Model, obstacle, Obstacle, 100.0, 10.0, 1.0, 75.0, 75.0, -75.0, Models, 0.05, -999.0
+loadPrimitive, Model, energy, Powerup, 100.0, -20.0, 1.0, 0.0, 0.0, 0.0, Models, 0.25, -999.0
+loadPrimitive, Model, energy, Powerup, -5.0, -10.0, 1.0, 0.0, 0.0, 0.0, Models, 0.25, -999.0
+loadPrimitive, Model, energy, Powerup, 15.0, 0.0, 1.0, 0.0, 0.0, 0.0, Models, 0.25, -999.0
+loadPrimitive, Model, energy, Powerup, 15.0, 25.0, 1.0, 0.0, 0.0, 0.0, Models, 0.25, -999.0
+loadPrimitive, Model, energy, Powerup, 55.0, 25.0, 1.0, 0.0, 0.0, 0.0, Models, 0.25, -999.0
+

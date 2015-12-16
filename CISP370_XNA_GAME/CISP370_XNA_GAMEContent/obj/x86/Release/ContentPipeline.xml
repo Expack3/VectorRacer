@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Consolas14.spritefont</Source>
+      <Name>Consolas14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Consolas14.xnb</Output>
+      <Time>2013-02-19T19:21:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\button-10.wav</Source>
+      <Name>Audio\button-10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Audio\button-10.xnb</Output>
+      <Time>2013-03-17T13:58:55.184114-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion-01.wav</Source>
+      <Name>Audio\explosion-01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Audio\explosion-01.xnb</Output>
+      <Time>2013-03-17T13:58:29.0506192-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Fall.wav</Source>
+      <Name>Audio\Fall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Audio\Fall.xnb</Output>
+      <Time>2013-03-17T14:03:58.9874905-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Hit.wav</Source>
+      <Name>Audio\Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Audio\Hit.xnb</Output>
+      <Time>2013-03-17T14:03:07.4345419-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\DU_CoTLogo.jpg</Source>
+      <Name>Textures\DU_CoTLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Textures\DU_CoTLogo.xnb</Output>
+      <Time>2013-10-01T12:32:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\XNA_logo.png</Source>
+      <Name>Textures\XNA_logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Textures\XNA_logo.xnb</Output>
+      <Time>2013-10-01T12:32:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\hud_sp_crosshair.tga</Source>
+      <Name>Textures\hud_sp_crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Textures\hud_sp_crosshair.xnb</Output>
+      <Time>2013-10-15T19:52:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\3D_Rectangle_tex.png</Source>
+      <Name>Models\3D_Rectangle_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Models\3D_Rectangle_tex.xnb</Output>
+      <Time>2013-11-15T14:01:17.0488869-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Pyramid_tex.png</Source>
+      <Name>Models\Pyramid_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Models\Pyramid_tex.xnb</Output>
+      <Time>2013-11-15T14:01:17.0498869-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Sphere_Texture2.png</Source>
+      <Name>Models\Sphere_Texture2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Models\Sphere_Texture2.xnb</Output>
+      <Time>2013-11-15T14:01:17.0608876-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\energy.fbx</Source>
+      <Name>Models\energy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Models\energy.xnb</Output>
+      <Time>2013-11-13T10:51:40.8274021-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\energy_0.xml</Key>
+        <Value>2013-11-15T14:54:21.6110334-05:00</Value>
+      </Dependency>
+      <Request>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\FBX\4F162EF4\energy.fbm\Sphere_Texture2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Barrier.FBX</Source>
+      <Name>Models\Barrier</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Models\Barrier.xnb</Output>
+      <Time>2013-11-15T15:05:16.3474822-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Barrier_0.xml</Key>
+        <Value>2013-11-15T15:05:36.380628-05:00</Value>
+      </Dependency>
+      <Request>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\FBX\7E3E2F51\Barrier.fbm\3D_Rectangle_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Enemy.FBX</Source>
+      <Name>Models\Enemy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Models\Enemy.xnb</Output>
+      <Time>2013-11-13T10:34:40.2580288-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Enemy_0.xml</Key>
+        <Value>2013-11-15T14:54:23.159122-05:00</Value>
+      </Dependency>
+      <Request>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\FBX\1FE82E88\Enemy.fbm\Pyramid_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Shaders\VectorEmulation.fx</Source>
+      <Name>Shaders\VectorEmulation</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\Shaders\VectorEmulation.xnb</Output>
+      <Time>2013-11-15T14:38:26.5974098-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\energy.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\energy_0.xml</Output>
+      <Time>2013-11-13T10:51:40.8274021-05:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Release\FBX\4F162EF4\energy.fbm\Sphere_Texture2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\FBX\4F162EF4\energy.fbm\Sphere_Texture2_0.xnb</Output>
+      <Time>2013-11-15T14:54:21.4930267-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Barrier.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Barrier_0.xml</Output>
+      <Time>2013-11-15T15:05:16.3474822-05:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Release\FBX\7E3E2F51\Barrier.fbm\3D_Rectangle_tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\FBX\7E3E2F51\Barrier.fbm\3D_Rectangle_tex_0.xnb</Output>
+      <Time>2013-11-15T15:05:36.274622-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Enemy.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Enemy_0.xml</Output>
+      <Time>2013-11-13T10:34:40.2580288-05:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Release\FBX\1FE82E88\Enemy.fbm\Pyramid_tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\FBX\1FE82E88\Enemy.fbm\Pyramid_tex_0.xnb</Output>
+      <Time>2013-11-15T14:54:23.1521216-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAMEContent\</RootDirectory>
+      <LoggerRootDirectory>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAMEContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAME\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-11T09:51:49.5307876-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

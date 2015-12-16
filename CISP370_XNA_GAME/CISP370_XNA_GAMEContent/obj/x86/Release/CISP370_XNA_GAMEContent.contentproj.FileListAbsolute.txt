@@ -1,0 +1,2 @@
+G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAMEContent\obj\x86\Release\CISP370_XNA_GAMEContent.contentprojResolveAssemblyReference.cache
+G:\Expack\Documents\Visual Studio 2010\Projects\CISP370_XNA_GAME\CISP370_XNA_GAME\CISP370_XNA_GAMEContent\obj\x86\Release\ScreensAudio.xml
