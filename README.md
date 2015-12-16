@@ -4,7 +4,7 @@ A simple 3D action game built with XNA built for my 3D Game Development class at
 * The [XNA Redistribute](http://www.microsoft.com/en-us/download/details.aspx?id=20914)
 * Visual Studio 2010
 * NVIDIA GeForce GTX 580 (unoptimized code ahoy!)
-* My [XNA Helper Library](https://github.com/Expack3/XNA_HelperLibrary) - you'll need to adjust the reference in order to compile the application.
+* My [XNA Helper Library](https://github.com/Expack3/XNA_HelperLibrary) - you'll need to adjust the project reference in order to compile the application.
 
 ## Controls for Gameplay
 ###Keyboard
